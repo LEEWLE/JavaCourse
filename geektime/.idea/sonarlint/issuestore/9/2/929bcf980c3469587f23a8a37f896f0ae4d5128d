@@ -1,0 +1,20 @@
+
+F
+java:S1068")Remove this unused "Aname" private field.(Á¼µÔ8§ù°Í¿/
+Q
+java:S1854"5Remove this useless assignment to local variable "l".(òëùl8Ï±Ì¿/
+H
+java:S1481"&Remove this unused "d" local variable.(Œ¼õ•ûÿÿÿÿ8Ï±Ì¿/
+W
+java:S1854"5Remove this useless assignment to local variable "d".(Œ¼õ•ûÿÿÿÿ8Ï±Ì¿/
+>
+java:S1170"!Make this final field static too.(Á¼µÔ8§ù°Í¿/
+G
+java:S1481"*Remove this unused "count" local variable.(æÕ¿¼8Ï±Ì¿/
+N
+java:S1481",Remove this unused "account" local variable.(—“²ûûÿÿÿÿ8Ï±Ì¿/
+]
+java:S1854";Remove this useless assignment to local variable "account".(—“²ûûÿÿÿÿ8Ï±Ì¿/
+B
+java:S1481"&Remove this unused "l" local variable.(òëùl8Ï±Ì¿/
+l	java:S116"PRename this field "Aname" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¼µÔ8§ù°Í¿/

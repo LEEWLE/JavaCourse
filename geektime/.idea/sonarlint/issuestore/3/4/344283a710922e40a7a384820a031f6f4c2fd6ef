@@ -1,0 +1,17 @@
+
+L
+java:S20932"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Æü–û¾/
+a
+java:S2147)"DCombine this catch with the one at line 35, which has the same body.(åşáÿ8àî û¾/
+[
+java:S4973"9Use the "equals" method if value comparison was intended.( ½İ‘ùÿÿÿÿ8ï¯£û¾/
+c
+java:S2259D"AA "NullPointerException" could be thrown; "fis" is nullable here.(ß¶­†ÿÿÿÿÿ8Æü–û¾/
+a
+java:S2147'"DCombine this catch with the one at line 35, which has the same body.(¯áè8àî û¾/
+P
+java:S1874""3Remove this use of "newInstance"; it is deprecated.(«‘²8îÍ û¾/
+a
+java:S2147%"DCombine this catch with the one at line 35, which has the same body.(Å¡ß8àî û¾/
+a
+java:S2147@"DCombine this catch with the one at line 62, which has the same body.(ï­£Ä8Æü–û¾/
